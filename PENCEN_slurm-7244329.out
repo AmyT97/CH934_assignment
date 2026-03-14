@@ -1,0 +1,22 @@
+===================================================================================
+SLURM Job ID:            7244329
+Submit time:             Sat Mar 14 18:49:55 GMT 2026 (Unix Epoch time: 1773514195)
+Start time:              Sat Mar 14 18:49:56 GMT 2026 (Unix Epoch time: 1773514196)
+No. nodes:               1
+No. tasks:               2
+Job name:                PENCEN
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/ngb25166/Downloaded_CH934_Git_repo/CH934/2026
+Script name:             /users/ngb25166/Downloaded_CH934_Git_repo/CH934/2026/PENCEN_gaussian_job.sh
+Master node:             wee19
+Nodes used:              wee19
+Task distribution:       cyclic
+===================================================================================
+
+===================================================================================
+SLURM job 7244329 ended:     Sat Mar 14 18:55:30 GMT 2026 (Unix Epoch time: 1773514530)
+This is an estimated end time using the 'date' command from node wee19.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 7244329 -X --format=Submit,Start,End,Elapsed'
+======================================================================================
