@@ -1,0 +1,19 @@
+===================================================================================
+SLURM Job ID:            7244410
+Submit time:             Sun Mar 15 12:56:31 GMT 2026 (Unix Epoch time: 1773579391)
+Start time:              Sun Mar 15 12:56:57 GMT 2026 (Unix Epoch time: 1773579417)
+No. nodes:               1
+No. tasks:               4
+Job name:                ANTCEN_4core
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/ngb25166/Downloaded_CH934_Git_repo/CH934/2026
+Script name:             /users/ngb25166/Downloaded_CH934_Git_repo/CH934/2026/ANTCEN_gaussian_job.sh
+Master node:             wee20
+Nodes used:              wee20
+Task distribution:       cyclic
+===================================================================================
+
+/tmp/slurmd/job7244410/slurm_script: line 24: syntax error near unexpected token `newline'
+/tmp/slurmd/job7244410/slurm_script: line 24: `g16 < Molecule_ANTCEN.com >'
