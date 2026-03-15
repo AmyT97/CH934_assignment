@@ -8,13 +8,13 @@
 # Distribute processes in a round-robin fashion
 #SBATCH --distribution=cyclic
 # Number of cores required
-#SBATCH --ntasks=2 --nodes=1
+#SBATCH --ntasks=4 --nodes=1
 # Runtime (hard)
 #SBATCH --time=00:20:00
 # Job name
-#SBATCH --job-name=ANTCEN
+#SBATCH --job-name=ANTCEN_4core
 # Output file
-#SBATCH --output=ANTCEN_slurm-%j.out
+#SBATCH --output=ANTCEN_4core_slurm-%j.out
 
 module load gaussian/g16
 /opt/software/scripts/job_prologue.sh

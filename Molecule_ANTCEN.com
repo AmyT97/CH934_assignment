@@ -1,6 +1,6 @@
-%nproc=2
+%nproc=4
 %mem=18GB
-%chk=Molecule_ANTCEN.chk
+%chk=Molecule_ANTCEN_4core.chk
 #p opt  B3LYP/3-21g*
 
 Molecule_ANTCEN
