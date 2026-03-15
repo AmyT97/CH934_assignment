@@ -1,0 +1,22 @@
+===================================================================================
+SLURM Job ID:            7244559
+Submit time:             Sun Mar 15 21:59:51 GMT 2026 (Unix Epoch time: 1773611991)
+Start time:              Sun Mar 15 22:00:29 GMT 2026 (Unix Epoch time: 1773612029)
+No. nodes:               1
+No. tasks:               16
+Job name:                ANTCEN_16core
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/ngb25166/Downloaded_CH934_Git_repo/CH934/2026
+Script name:             /users/ngb25166/Downloaded_CH934_Git_repo/CH934/2026/ANTCEN_gaussian_job.sh
+Master node:             wee13
+Nodes used:              wee13
+Task distribution:       cyclic
+===================================================================================
+
+===================================================================================
+SLURM job 7244559 ended:     Sun Mar 15 22:01:01 GMT 2026 (Unix Epoch time: 1773612061)
+This is an estimated end time using the 'date' command from node wee13.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 7244559 -X --format=Submit,Start,End,Elapsed'
+======================================================================================
