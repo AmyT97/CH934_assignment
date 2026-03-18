@@ -1,0 +1,22 @@
+===================================================================================
+SLURM Job ID:            7245163
+Submit time:             Mon Mar 16 16:47:44 GMT 2026 (Unix Epoch time: 1773679664)
+Start time:              Mon Mar 16 16:49:33 GMT 2026 (Unix Epoch time: 1773679773)
+No. nodes:               1
+No. tasks:               16
+Job name:                TETCEN_16core
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/ngb25166/Downloaded_CH934_Git_repo/CH934/2026
+Script name:             /users/ngb25166/Downloaded_CH934_Git_repo/CH934/2026/TETCEN_gaussian_job.sh
+Master node:             wee19
+Nodes used:              wee19
+Task distribution:       cyclic
+===================================================================================
+
+===================================================================================
+SLURM job 7245163 ended:     Mon Mar 16 16:50:08 GMT 2026 (Unix Epoch time: 1773679808)
+This is an estimated end time using the 'date' command from node wee19.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 7245163 -X --format=Submit,Start,End,Elapsed'
+======================================================================================
