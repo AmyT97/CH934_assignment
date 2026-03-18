@@ -1,0 +1,22 @@
+===================================================================================
+SLURM Job ID:            7244623
+Submit time:             Mon Mar 16 04:31:09 GMT 2026 (Unix Epoch time: 1773635469)
+Start time:              Mon Mar 16 04:31:30 GMT 2026 (Unix Epoch time: 1773635490)
+No. nodes:               1
+No. tasks:               8
+Job name:                PENCEN_8core
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/ngb25166/Downloaded_CH934_Git_repo/CH934/2026
+Script name:             /users/ngb25166/Downloaded_CH934_Git_repo/CH934/2026/PENCEN_gaussian_job.sh
+Master node:             wee19
+Nodes used:              wee19
+Task distribution:       cyclic
+===================================================================================
+
+===================================================================================
+SLURM job 7244623 ended:     Mon Mar 16 04:33:12 GMT 2026 (Unix Epoch time: 1773635592)
+This is an estimated end time using the 'date' command from node wee19.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 7244623 -X --format=Submit,Start,End,Elapsed'
+======================================================================================
