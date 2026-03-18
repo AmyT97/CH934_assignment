@@ -1,6 +1,6 @@
-%nproc=2
+%nproc=16
 %mem=18GB
-%chk=Molecule_TETCEN.chk                                                                                                          
+%chk=Molecule_TETCEN_16core.chk                                                                                                          
 #p opt  B3LYP/3-21g*
 
 Molecule_TETCEN
