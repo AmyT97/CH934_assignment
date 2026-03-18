@@ -8,13 +8,13 @@
 # Distribute processes in a round-robin fashion
 #SBATCH --distribution=cyclic
 # Number of cores required
-#SBATCH --ntasks=2 --nodes=1
+#SBATCH --ntasks=16 --nodes=1
 # Runtime (hard)
 #SBATCH --time=00:20:00
 # Job name
-#SBATCH --job-name=PENCEN
+#SBATCH --job-name=PENCEN_16core
 # Output file
-#SBATCH --output=PENCEN_slurm-%j.out
+#SBATCH --output=PENCEN_16core_slurm-%j.out
 
 module load gaussian/g16
 /opt/software/scripts/job_prologue.sh

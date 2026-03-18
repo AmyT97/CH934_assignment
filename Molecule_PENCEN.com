@@ -1,6 +1,6 @@
-%nproc=2
+%nproc=16
 %mem=18GB
-%chk=Molecule_PENCEN.chk                                                                                                          
+%chk=Molecule_PENCEN_16core.chk                                                                                                          
 #p opt  B3LYP/3-21g*
 
 Molecule_PENCEN
